@@ -1,0 +1,23 @@
+.menu{
+	background: #ddcfcf;
+	margin-bottom: 80px;
+}
+.header{
+	text-align: center;
+	font-size: 24px;
+	padding-top: 20px;
+}
+.form input{
+	margin-bottom: 20px;
+	height: 50px;
+	text-align: center;
+}
+.footer{
+	margin-top: 80px;
+	height: 150px;
+	text-align: center;
+	padding: 50px 30px;
+}
+.footer p{
+	margin-top: 15px;
+}
